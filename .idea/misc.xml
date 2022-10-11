@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/activity_detail_page.xml" value="0.25" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/activity_history.xml" value="0.1" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/activity_manage.xml" value="0.1" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/activity_restock.xml" value="0.13" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/history_list.xml" value="0.25" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/manager_view.xml" value="0.1" />
+        <entry key="..\:/Users/karlm/Documents/Seneca Course Work/MAP524/Assignment 2/Assignment 2/app/src/main/res/layout/mylist.xml" value="0.2967032967032967" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
